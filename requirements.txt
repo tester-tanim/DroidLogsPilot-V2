@@ -1,0 +1,2 @@
+# PDF export for DroidLogsPilot_UI.py
+reportlab>=4.0
