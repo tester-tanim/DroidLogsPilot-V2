@@ -11,6 +11,10 @@
   It records live logcat output, detects API and HTTP activity, highlights failures, captures screenshots, and exports a polished PDF report for QA and debugging.
 </p>
 
+<p align="center">
+  <em>Original concept and groundwork credited to Shuvo Dada.</em>
+</p>
+
 ---
 
 ## ✨ What the app does
@@ -124,4 +128,6 @@ Make sure USB debugging is enabled and the device is authorized.
 
 <p align="center">
   <em>Built for faster Android debugging and cleaner bug reporting.</em>
+  <br>
+  <strong>Credit: Shuvo</strong>
 </p>
