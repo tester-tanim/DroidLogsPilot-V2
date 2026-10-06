@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>Original concept and groundwork credited to <a href="https://github.com/shuvo27/DroidLogsPilot">Shuvo</a>.</em>
+  <em>Original concept and groundwork credited to <a href="https://github.com/shuvo27/DroidLogsPilot">Shuvo</a> Dada.</em>
 </p>
 
 ---
