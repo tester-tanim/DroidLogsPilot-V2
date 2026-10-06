@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>Original concept and groundwork credited to Shuvo Dada.</em>
+  <em>Original concept and groundwork credited to <a href="https://github.com/shuvo27/DroidLogsPilot">Shuvo</a>.</em>
 </p>
 
 ---
@@ -129,5 +129,5 @@ Make sure USB debugging is enabled and the device is authorized.
 <p align="center">
   <em>Built for faster Android debugging and cleaner bug reporting.</em>
   <br>
-  <strong>Credit: Shuvo</strong>
+  <strong>Credit: <a href="https://github.com/shuvo27/DroidLogsPilot">Shuvo</a></strong>
 </p>
